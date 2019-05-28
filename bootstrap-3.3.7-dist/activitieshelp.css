@@ -1,0 +1,97 @@
+.body{
+	font-family:  Roboto, 'Segoe UI', Tahoma, sans-serif;
+	
+}
+.back{
+	height: 500px;
+	width: 100%;
+	background-image: url(file:///E:/work/workupdate/bootstrap-3.3.7-dist/Themed%20Activities/back.png);
+	background-repeat: no-repeat;
+	background-size: cover; 
+	position: fixed;
+	top: 100px;
+	margin: 0px;
+	left: 0px;
+
+}
+.logo{
+	margin-top: 50px;
+	margin-left: 50px;
+	float: left;
+}
+.menu{
+	margin-top: 70px;
+	margin-left: 50px;
+	float: right;
+}
+
+.header{
+	margin-top: 200px;
+
+;
+}
+.header h1{
+	font-size: 56px;
+}
+.header ul{
+	display: inline-block;
+	list-style: none;
+	margin-left: 80px;
+	margin-top: 18px;
+	margin-bottom: 32px;
+}
+.header li{
+	display: inline-block;
+	border-radius: 50px;
+	background-color: #484848;
+	height: 100px;
+	width: 100px;
+	padding-top: 15px;
+	padding-left: 15px;
+	margin: 20px;
+}
+.hiking h1{
+	
+}
+.content{
+	margin-top: 100px;
+}
+
+.hiking .image{
+	float: left;
+	width: 50%;
+	margin-top: 32px;
+	background-image: url(file:///E:/work/workupdate/bootstrap-3.3.7-dist/Themed%20Activities/Themed%20Activities%20Page%20Images.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.hiking .text{
+	float: right;
+	width: 50%;
+	text-align: left;
+	margin-top: 64px;
+		
+}
+input{
+	margin-top: 50px;
+	height: 50px;
+	width: 250px;
+	border-radius:8px;
+	background-color: red;
+	margin-bottom: 32px; 
+	color: white;
+	font-size: 20px;	
+}
+
+.hiking .image1{
+	float: right;
+	width: 40%;
+	margin-top: 32px;
+	background-color: yellow;
+}
+.hiking .text1{
+	float:left;
+	width: 60%;
+	text-align: left;
+	
+

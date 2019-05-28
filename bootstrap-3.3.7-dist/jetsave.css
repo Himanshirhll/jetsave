@@ -1,0 +1,138 @@
+/*jetsave css*/
+/*homepage*/
+
+/*fonts*/
+
+@font-face {
+    font-family: 'josefin_sansregular';
+    src: url('css/font/josefinsans-regular-webfont.woff2') format('woff2'),
+         url('css/font/josefinsans-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'josefin_sansbold';
+    src: url('css/font/josefinsans-bold-webfont.woff2') format('woff2'),
+         url('css/font/josefinsans-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'decalled_scriptregular';
+    src: url('css/font/decalled_script_demo_version-webfont.woff2') format('woff2'),
+         url('css/font/decalled_script_demo_version-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotobold';
+    src: url('css/font/roboto-bold_0-webfont.woff2') format('woff2'),
+         url('css/font/roboto-bold_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'robotoregular';
+    src: url('css/font/roboto-regular_0-webfont.woff2') format('woff2'),
+         url('css/font/roboto-regular_0-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'stalemateregular';
+    src: url('css/font/stalemate-regular-webfont.woff2') format('woff2'),
+         url('css/font/stalemate-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/*font names*/
+/*josefin_sansregular
+josefin_sansbold
+decalled_scriptregular
+robotobold
+robotoregular
+stalemateregular*/
+
+
+/*colors*/
+
+/*LogoRed:#ef3a3a
+Black: #333333
+Platinum:#eae7dc
+Minion yellow: #ffe251
+Blue De France: #3b8beb
+Fuchsia: #c04abc*/
+
+
+/*body CSS*/
+body{
+
+}
+
+h1, h2, h3, h4, h5, h6{
+	font-family: josefin_sansbold;
+	font-weight: bold;
+
+}
+
+h1{
+	font-size: 48px;
+}
+
+h2{
+	font-size: 36px;
+}
+
+h3{
+	font-size: 24px
+}
+
+h4{
+	font-size: 16px;
+}
+
+p{
+	font-family: roboto;
+	font-size: 16px;
+
+}
+
+.psmall{
+	font-size: 14px;
+}
+
+h5{
+	font-size: 14px;
+}
+
+h6{
+	font-size: 12px;
+}
+
+
+/*Body css finish*/
+
+
+.main-container{
+
+}
+
+.about-jetsave{
+
+}
+
+.tophead{
+	font-family: josefin_sansbold;
+}
+
+.bottomhead{
+	font-family: decalled_scriptregular;
+}
+
